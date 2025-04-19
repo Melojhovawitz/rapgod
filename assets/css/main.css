@@ -6,8 +6,4 @@ h1, h2, h3, p, a{
 a{
   text-decoration: none;
 }
-div {
-  background-color: blue;
-  width: 100px;
-  height: 100px;
-}
+
