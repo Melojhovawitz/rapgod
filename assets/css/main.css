@@ -16,7 +16,7 @@ body {
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background: rgb(1, 13, 99);
+      background: #010d63;
       }
 .container {
     display: flex;
