@@ -3,3 +3,11 @@ h1, h2, h3, p, a{
   font-weight: 400;
   font-style: normal;
 }
+a{
+  text-decoration: none;
+}
+div {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
